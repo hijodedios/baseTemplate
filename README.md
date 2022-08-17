@@ -7,5 +7,5 @@ Se aceptan contribuciones.
 
 ### 1.- Clone repo.
 ### 2.- change directory to "baseProject".
-### 3.- exect "npm install" in your terminal.
-### 4.- exect "npm run dev".
+### 3.- run "npm install" in your terminal.
+### 4.- run "npm run dev".
